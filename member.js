@@ -12,3 +12,15 @@ function skillsMember() {
     </div>
   );
 }
+function experienceMember() {
+  return (
+    <div className="experience-member">
+      <h2>Experience</h2>
+      <ul>
+        <li>Software Engineer at XYZ Corp</li>
+        <li>Frontend Developer at ABC Inc</li>
+        <li>Intern at Tech Solutions</li>
+      </ul>
+    </div>
+  );
+}   
